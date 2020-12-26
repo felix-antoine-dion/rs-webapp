@@ -1,0 +1,7 @@
+[package]
+name = "webapp"
+version = "0.1.0"
+authors = ["Félix-Antoine Dion <felix.antoine.dion@gmail.com>"]
+
+[lib]
+path ="./src/configuration.rs"
